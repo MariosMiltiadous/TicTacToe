@@ -1,6 +1,7 @@
 # TicTacToe Game
 This is a simple Tic-Tac-Toe game built with React.js version 18. The game allows two players to compete against each other in a classic 3x3 grid. The first player to align three of their marks (X or O) either horizontally, vertically, or diagonally wins the game.
 
+![alt text](image.png)
 ## Features
 
 - **Two-player mode**: Play against a friend on the same device.
